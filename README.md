@@ -1,6 +1,9 @@
 ## 阿里通义万相大模型wan2.1
 ![img](./assets/video_dit_arch.jpg)
 
+海聪镜像：registry-haiyan.local.huya.com/machine-learn/fengweiyan_wanxiang:wanxiang_v1.0
+权重位置：/workspace/project-nas-1000099/model/Wan-AI/
+
 dashscope api key 作为无需本地文本模型部署的必须项，可以到https://account.aliyun.com/login/login.htm?oauth_callback=https%3A%2F%2Fbailian.console.aliyun.com%2F%3FapiKey%3D1&clearRedirectCookie=1&lang=zh#/api-key获取
 
 试用api_key: 2ea5ed5b0c00462aa8acf22ad848a6bd
